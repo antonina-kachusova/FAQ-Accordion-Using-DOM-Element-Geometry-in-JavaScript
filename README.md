@@ -54,8 +54,7 @@ Simply open index.html in your browser — no server needed.
 📷 Demo
 
 This GIF demonstrates the smooth opening and closing of answers using scrollHeight and animation classes.
-![Demo](demo/demo.gif)
-
+![Demo](https://github.com/antonina-kachusova/FAQ-Accordion-Using-DOM-Element-Geometry-in-JavaScript/raw/main/demo/demo.gif)
 
 🔗 Author
 
