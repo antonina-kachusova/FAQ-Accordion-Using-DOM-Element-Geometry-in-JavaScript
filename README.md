@@ -1,5 +1,6 @@
 # FAQ Accordion Using DOM Element Geometry in JavaScript  
 Interactive FAQ accordion powered by `scrollHeight` and pure JavaScript.
+Live Site URL: https://antonina-kachusova.github.io/FAQ-Accordion-Using-DOM-Element-Geometry-in-JavaScript/
 
 This project showcases dynamic manipulation of element geometry in JavaScript. It uses a FAQ accordion interface to demonstrate how the `scrollHeight` property can be used to animate height transitions for expanding and collapsing content blocks with smooth, UX-friendly behavior.
 
